@@ -1,0 +1,6 @@
+{
+  "string1": "Éste es el parcial para la vista 1.",
+  "string2": "Éste es el parcial para la vista 2.",
+  "string3": "Mostrando el filtro 'interpolate':",
+  "string4": "La versión actual es v%VERSION%."
+}

@@ -1,0 +1,6 @@
+{
+  "string1": "This is the partial for view 1.",
+  "string2": "This is the partial for view 2.",
+  "string3": "Showing of 'interpolate' filter:",
+  "string4": "Current version is v%VERSION%."
+}
